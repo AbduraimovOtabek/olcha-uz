@@ -1,0 +1,9 @@
+O`zbekistonda mashxur bo`lgan olcha-uz ni backedn qismini yaratish.
+1.User register yoki login qiladi telefoniga sms xabar yuboriladi oshani tastiqlaydi.
+2.Admin CRUD amallarini bajara oladi User faqat Read amalini bajara oladi.
+3.Manufacture lar boladi ishlab chiqaruvchilar bitta  productni bir nechta manufaturesi bo`lishi mumkin.
+4.Cartegory lar boladi. Unda productlar subCategorylar va manufacture lar bo`ladi.
+5.product lar bol`adi. bitta broduct faqat bitta categoryga tegishli boladi bir nechta manufacture lari bo`lishi mumkin.
+
+Xozir qilinadigan vazifa entity larni yaratish lucidChart da. database dizaynini yaratish va entity larni yaratish,
+userni register qismini bajarish (imkoni boricha login ham). 17.26.2023 -> 22:00 gacha vaqt.
